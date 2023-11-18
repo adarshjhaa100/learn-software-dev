@@ -1,4 +1,4 @@
-# Learn Programming the fun way: Build a communcations app from scratch 
+# Learn software development the fun way: Build a communcations app from scratch 
 
 Want to learn a new language in a fun way? Want to become a better developer doing that? Let's build a communications app starting with the description provided. 
 
