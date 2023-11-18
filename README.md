@@ -34,9 +34,10 @@ User Requirements:
 Technical Requirements:
 
 - Languages (Make one version in each language): JS,Go, Python, C, Java, Rust, Zig etc.
-- Identify how each tool’s (language, library, Framework) used across the world
+- Identify how each tool’s (language, library, Framework) used across the industry.
 - Try to be less dependent on third party libraries, only use when absolutely requred. If you really use something, try to understand the internals, explore code etc,
-- ** Setup Benchmark, Testcases, DevOps( Build and Deployment Scripts ), Diagnostics (Logging, Metrics, Audit etc.) ** 
+- ** Setup Benchmark, Testcases, DevOps(Dockerize, Build and Deployment Scripts ), Diagnostics (Logging, Metrics, Audit etc.) **
+- Once an initial prototype is complete, try deploying it over some free tier linux server, or any cheap linux service provider.
 - Go over WebRTC: [https://webrtc.github.io/webrtc-org/architecture](https://webrtc.github.io/webrtc-org/architecture/#), and try to create something similar at lower levels
 
 
