@@ -12,7 +12,7 @@ By the time we finish building this, we'll be able to implement the following co
 - Video/Audio Processing
 - String processing
 - File handling
-- Image Preview
+- Image Processing
 - DevOps: Build, Deploy and Diagnostics
 and much more...
 
@@ -34,11 +34,13 @@ User Requirements:
 Technical Requirements:
 
 - Languages (Make one version in each language): JS,Go, Python, C, Java, Rust, Zig etc.
+- Files, chats can be compressed
 - Identify how each tool’s (language, library, Framework) used across the industry.
+- A small tip here: try to convert small parts of your code to assembly/obj/bytecode. Search the internet if anything seems foreign and keep on going.
 - Try to be less dependent on third party libraries, only use when absolutely requred. If you really use something, try to understand the internals, explore code etc,
 - ** Setup Benchmark, Testcases, Dockerize, Build and Deployment Scripts, Diagnostics (Logging, Metrics, Audit etc.) **
 - Once the initial prototype is complete, try deploying it over some free tier linux server, or any cheap linux service provider. Automate deployment by installing tools like jenkins(or use github workflows) on your local machine.
-- Go over WebRTC: [https://webrtc.github.io/webrtc-org/architecture](https://webrtc.github.io/webrtc-org/architecture/#), and try to create something similar at lower levels
+- Go over webrtc: [https://webrtc.github.io/webrtc-org/architecture](https://webrtc.github.io/webrtc-org/architecture/#), understand architecture and try building a rough one of your own using udp/tcp 
 
 
 
