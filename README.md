@@ -1,5 +1,8 @@
 # Learn software development the fun way: Build a communcations app from scratch 
 
+### Prerequisites: Should have basic knowledge of atleast one programming language. If not I recommend atleast complete a basic crash course first.
+
+
 Want to learn a new language in a fun way? Want to become a better developer doing that? Let's build a communications app starting with the description provided. 
 
 By the time we finish building this, we'll be able to understand in depth the implementation the following concepts and technologies:
@@ -8,7 +11,7 @@ By the time we finish building this, we'll be able to understand in depth the im
 - GUIs/CLIs
 - File Storage
 - Databases
-- Data Strctures
+- Data Strctures and Algorithms: Trees, String, Search etc. 
 - Video/Audio Processing
 - String processing
 - File handling
@@ -33,7 +36,7 @@ Google, ChatGPT or do whatever you want to search whenever stuck. Just make sure
 
 #### Technical Requirements:
 
-- Languages (Make one version in each language): JS,Go, Python, C, Java, Rust, Zig etc.
+- Languages : JS,Go, Python, C, Java, Rust, Zig or whatever you'd like to use. Just use any one across whole application for understanding the nuances.
 - Files, chats can be compressed
 - Identify how each tool’s (language, library, Framework) used across the industry.
 - A small tip here: try to convert small parts of your code to assembly/obj/bytecode. Search the internet if anything seems foreign and keep on going.
