@@ -33,12 +33,14 @@ Google, ChatGPT or do whatever you want to search whenever stuck. Just make sure
 - with GUI
 - Settings, Call History etc.
 - Chat backup and Migration Options
+- <b>App Should Work on : Mobile, Web and Desktop (Can make three different versions)</b>
 
 #### Technical Requirements:
 
 - Languages : JS,Go, Python, C, Java, Rust, Zig or whatever you'd like to use. Just use any one across whole application for understanding the nuances.
 - Files, chats can be compressed
 - Identify how each tool’s (language, library, Framework) used across the industry.
+- App Should Work on : Mobile, Web and Desktop (Can make three different versions)
 - A small tip here: try to convert small parts of your code to assembly/obj/bytecode. Search the internet if anything seems foreign and keep on going.
 - Try to be less dependent on third party libraries, only use when absolutely required. If you really use something, try to understand the internals, explore code etc,
 - <b> Setup Benchmark, Testcases, Dockerize, Build and Deployment Scripts, Diagnostics (Logging, Metrics, Audit etc.) </b>
