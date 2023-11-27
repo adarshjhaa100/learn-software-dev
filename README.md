@@ -2,7 +2,7 @@
 
 Want to learn a new language in a fun way? Want to become a better developer doing that? Let's build a communications app starting with the description provided. 
 
-By the time we finish building this, we'll be able to implement the following concepts and tech in whatever stack we're using:
+By the time we finish building this, we'll be able to understand in depth the implementation the following concepts and technologies:
 
 - Backend Communcation Protocols
 - GUIs/CLIs
