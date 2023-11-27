@@ -38,7 +38,7 @@ Technical Requirements:
 - Identify how each tool’s (language, library, Framework) used across the industry.
 - A small tip here: try to convert small parts of your code to assembly/obj/bytecode. Search the internet if anything seems foreign and keep on going.
 - Try to be less dependent on third party libraries, only use when absolutely requred. If you really use something, try to understand the internals, explore code etc,
-- <em> Setup Benchmark, Testcases, Dockerize, Build and Deployment Scripts, Diagnostics (Logging, Metrics, Audit etc.) </em>
+- <b> Setup Benchmark, Testcases, Dockerize, Build and Deployment Scripts, Diagnostics (Logging, Metrics, Audit etc.) </b>
 - Once the initial prototype is complete, try deploying it over some free tier linux server, or any cheap linux service provider. Automate deployment by installing tools like jenkins(or use github workflows) on your local machine.
 - Go over webrtc: [https://webrtc.github.io/webrtc-org/architecture](https://webrtc.github.io/webrtc-org/architecture/#), understand architecture and try building a rough one of your own using udp/tcp 
 
