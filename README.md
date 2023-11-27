@@ -40,6 +40,7 @@ Technical Requirements:
 - Try to be less dependent on third party libraries, only use when absolutely required. If you really use something, try to understand the internals, explore code etc,
 - <b> Setup Benchmark, Testcases, Dockerize, Build and Deployment Scripts, Diagnostics (Logging, Metrics, Audit etc.) </b>
 - Once the initial prototype is complete, try deploying it over some free tier linux server, or any cheap linux service provider. Automate deployment by installing tools like jenkins(or use github workflows) on your local machine.
+- Research on the best security practices used across the industry and try applying those relevant to the application.
 - Go over webrtc: [https://webrtc.github.io/webrtc-org/architecture](https://webrtc.github.io/webrtc-org/architecture/#), understand architecture and try building a rough one of your own using udp/tcp 
 
 
