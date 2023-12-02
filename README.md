@@ -82,7 +82,13 @@ Google, ChatGPT or do whatever you want to search whenever stuck. Just make sure
 
 ## ARCHITECTURE
 
+Note: Try to build a basic version of bidirectional communication (Like WebRTC), or Just use webRTC,webSocket and look at the inner workings of whatever library used.
+
+For UI, Use the most basic lib/framework available (Desktop: QT, SDL, GTX etc. , Web: PureJS, integrated with WASM if possible), Understand how it works in depth.
+
+
 **High Level Frontend Arch**
+
 
 ![image](https://github.com/adarshjhaa100/communications-app-architecture/assets/31096082/8ce6ac8d-0869-470a-8706-fab13aee3fb3)
 
