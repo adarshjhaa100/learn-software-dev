@@ -2,7 +2,6 @@
 
 ### Prerequisites: Should have basic knowledge of atleast one programming language. If not I recommend atleast complete a basic crash course first.
 
-
 Want to learn a new language in a fun way? Want to become a better developer doing that? Let's build a communications app starting with the description provided. 
 
 By the time we finish building this, we'll be able to understand in depth the implementation the following concepts and technologies:
@@ -20,7 +19,7 @@ By the time we finish building this, we'll be able to understand in depth the im
 and much more...
 
 
-Google, ChatGPT or do whatever you want to search whenever stuck. Just make sure to properly understand if copying any code, using library, tools etc. happy coding!
+Google, use UI or do whatever you want to search whenever stuck. Just make sure to properly understand if copying any code, using library, tools etc. happy coding!
 
 
 #### User Requirements: 
@@ -84,9 +83,11 @@ Google, ChatGPT or do whatever you want to search whenever stuck. Just make sure
 
 ## ARCHITECTURE
 
-Note: Try to build a basic version of bidirectional communication (Like WebRTC), or Just use webRTC,webSocket and look at the inner workings of whatever library used.
+Note: The architectures mentioned here are just a suggestion. Implement this if you'd like, or design something and create a PR!
 
-For UI, Use the most basic lib/framework available (Desktop: QT, SDL, GTX etc. , Web: PureJS, integrated with WASM if possible), Understand how it works in depth.
+Try to build a basic version of bidirectional communication (Like WebRTC), or Just use webRTC,webSocket and look at the inner workings of whatever library used.
+
+For UI, Use the most basic lib/framework available (Desktop: QT, SDL, GTX etc. , Web: PureJS, integrated with WASM if possible), Understand how they works in depth.
 
 
 **High Level Frontend Arch**
