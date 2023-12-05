@@ -43,13 +43,13 @@ Google, use UI or do whatever you want to search whenever stuck. Just make sure 
 - Figure out error handling in whatever tool being used to build this
 - A small tip here: try to convert small parts of your code to assembly/obj/bytecode. Search the internet if anything seems foreign and keep on going.
 - Try to be less dependent on third party libraries, only use when absolutely required. If you really use something, try to understand the internals, explore code etc,
-- <b> Setup Benchmark, Testcases, Dockerize, Build and Deployment Scripts, Diagnostics (Logging, Metrics, Audit, Debugging etc.) from the get go to get a full picture </b>
+- <b> Setup Benchmark, Testcases, Fuzzing, Dockerize, Build and Deployment Scripts, Diagnostics (Logging, Metrics, Audit, Debugging etc.) from the get go to get a full picture </b>
 - <b> Feature flag and env flag for prod, dev etc.  if env = dev then only run diagnostics </b>
 - Try to improve the application to squeeze out every last bit of performance.
 - Once the initial prototype is complete, try deploying it over some free tier linux server, or any cheap linux service provider. Automate deployment by installing tools like jenkins(or use github workflows) on your local machine.
 - Research on the best security practices used across the industry and try applying those relevant to the application.
 - Go over webrtc: [https://webrtc.github.io/webrtc-org/architecture](https://webrtc.github.io/webrtc-org/architecture/#), understand architecture and try building a rough one of your own using udp/tcp
-- 
+
 
 #### Rough Guidelines For Benchmarks:
 - <b>Idea Here is to squeeze out the best performance with available resources. Keep going on until resource usage hits bottleneck, then imrprove, and keep on repeating the cycle. Reasearch on optimization techniques in whatever tool you're using</b>
