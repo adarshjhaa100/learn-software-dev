@@ -36,7 +36,7 @@ Google, use UI or do whatever you want to search whenever stuck. Just make sure 
 
 #### Technical Requirements:
 
-- Follow these steps for an effective learning: Go over the topics of a language at a high level -> Create a mind map -> Start building (or if it's tough, do AOC) -> Keep using mindmap to search whenever you want to use something -> Post solution, compare with industry level code (Maybe from open source) implementing the same and check for any improvements in your code.
+- Follow these steps for an effective learning: Go over the topics of a language at a high level -> Create a mind map -> Write hello world (Lol!) ->Start building (or if it's tough, do AOC) -> Keep using mindmap to search whenever you want to use something -> Post solution, compare with industry level code (Maybe from open source) implementing the same and check for any improvements in your code.
 
 - Languages : JS,Go, Python, C, Java, Rust, Zig or whatever you'd like to use. Just use any one across whole application for understanding the nuances.
 - Files, chats can be compressed
