@@ -55,7 +55,7 @@ Google, use UI or do whatever you want to search whenever stuck. Just make sure 
 
 
 #### Rough Guidelines For Benchmarks:
-- <b>Idea Here is to squeeze out the best performance with available resources. Keep going on until resource usage hits bottleneck, then imrprove, and keep on repeating the cycle. Reasearch on optimization techniques in whatever tool you're using</b>
+- <b>Idea Here is to squeeze out the best performance with available resources. Keep going on until resource usage hits bottleneck, then improve, and keep on repeating the cycle. Reasearch on optimization techniques in whatever tool you're using</b>
 - 1. Notice the Spike in resource usage. 2. Identify The component/function/process taking the most amount of time for this.
 - Send and Store the following no of text messages: 10K, 100K, 1 million, 10 million and so on. (spread across multiple groups and users)
 - Send files worth: 1 MB, 10 MB, 100 MB and so on
