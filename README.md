@@ -42,7 +42,7 @@ Google, use UI or do whatever you want to search whenever stuck. Just make sure 
 - Files, chats can be compressed
 - Identify how each tool’s (language, library, Framework) used across the industry.
 - App Should Work on : Mobile, Web and Desktop (Can make three different versions)
-- Figure out error handling in whatever tool being used to build this
+- Figure out error handling in whatever tool being used to build this. Try to add failure recovery mechanisms if possible.
 - A small tip here: try to convert small parts of your code to assembly/obj/bytecode. Search the internet if anything seems foreign and keep on going.
 - Try to be less dependent on third party libraries, only use when absolutely required. If you really use something, try to understand the internals, explore code etc,
 - <b> Setup Benchmark, Testcases, Fuzzing, Dockerize, Build and Deployment Scripts, Diagnostics (Logging, Metrics, Audit, Debugging etc.) from the get go to get a full picture </b>
