@@ -53,6 +53,18 @@ Google, use UI or do whatever you want to search whenever stuck. Just make sure 
 - Research on the best security practices used across the industry and try applying those relevant to the application.
 - Go over webrtc: [https://webrtc.github.io/webrtc-org/architecture](https://webrtc.github.io/webrtc-org/architecture/#), understand architecture and try building a rough one of your own using udp/tcp
 
+#### Document Every significant detail of the technical decisions and designs, taken throughout. Discuss tradeoffs if exists, and try to do a comparison with other existing techniques. Some examples:
+- Constraints, Requirements
+- Platform: Client and Server. Mobile? Web? IOT? etc.
+- High Level and Low level architecture based on the tradeoffs and decisions
+- Decision on: Service logic, Data-Storage, Communication (e.g RPC for internal, client server for external, Message Queues)
+- Fault Tolerance Mechanisms: Reliability, Availability, Safety, Maintainability
+- Using any specific mechanism like: cache? Message Queues? Why? what is the complexity, cost and benefit for the usage.
+- Diagnostics information
+- Benchmark and usage patterns
+- <b> In the end, the purpose is to iteratively improve the software based on the information </b>  
+
+
 
 #### Rough Guidelines For Benchmarks:
 - <b>Idea Here is to squeeze out the best performance with available resources. Keep going on until resource usage hits bottleneck, then improve, and keep on repeating the cycle. Reasearch on optimization techniques in whatever tool you're using</b>
