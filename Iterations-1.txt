@@ -13,7 +13,9 @@ User Registration/Login
 
 End-to-End : Complete Feature, defer OTP and other OAuth(Google, Linkedin) for later
 
-
+Shifa's Tasks : Learn why frontend, backend and db are used. and explore on client server architecture
++ 
+Learn about the purpose of tech stack mentioned above: JS + NodeJS + MySQL + MongoDB
 
 
 ### Second Iteration - 15 - 28 May 2024
