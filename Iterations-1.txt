@@ -1,0 +1,26 @@
+### Tech Stack
+Frontend: HTML, CSS, JS - with JSDoc
+Backend: NodeJS
+Database: MySQL(Structured Data) + MongoDB(Unstructured Data)
+
+
+### First Iteration - 1 May 2024 to 14 May 2024
+
+User Registration/Login
+
+1. User Registration
+2. Login
+
+End-to-End : Complete Feature, defer OTP and other OAuth(Google, Linkedin) for later
+
+
+
+
+### Second Iteration - 15 - 28 May 2024
+
+Chat + Text/Image/File + Save + Multiple User/Single User
+
+
+
+
+
