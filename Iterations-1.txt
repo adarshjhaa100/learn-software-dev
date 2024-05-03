@@ -13,9 +13,23 @@ User Registration/Login
 
 End-to-End : Complete Feature, defer OTP and other OAuth(Google, Linkedin) for later
 
-Shifa's Tasks : Learn why frontend, backend and db are used. and explore on client server architecture
-+ 
-Learn about the purpose of tech stack mentioned above: JS(Akshay saini namaste JS) + NodeJS + MySQL + MongoDB
+Shifa's Tasks : 
+
+1)Learn why frontend, backend and db are used. and explore on client server architecture (done)
++  Learn about the purpose of tech stack mentioned above: JS(Akshay saini namaste JS) + NodeJS + MySQL + MongoDB
+
+2) Akshay Saini + Create a form to register user with the following fields
+username
+email
+phone
+password
+
+[ Register ] 
+
+Make the UI part with HTML, CSS following clean design princiles and display field
+values on click to JS console
+
+
 
 
 ### Second Iteration - 15 - 28 May 2024
