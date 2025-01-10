@@ -34,6 +34,7 @@ Google, use UI or do whatever you want to search whenever stuck. Just make sure 
 - Chat backup and Migration Options
 - Embed social media feature. Turn chats/images/videos into social media style
 - <b>App Should Work on : Mobile, Web and Desktop (Can make three different versions)</b>
+- Screen Sharing
 
 
 #### Technical Requirements:
